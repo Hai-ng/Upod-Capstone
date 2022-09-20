@@ -9,7 +9,7 @@ export default function HomeCarousel() {
     return (
     
         <div>
-            <img src="https://picsum.photos/200/300" alt="" />
+            <img src="https://picsum.photos/1500/500" alt="" />
         </div>
     )
 }
